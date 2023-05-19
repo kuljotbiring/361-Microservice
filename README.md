@@ -46,5 +46,6 @@ def get_locations():
     # return the contents as JSON response
     return jsonify(data)
 ```
-![Screenshot 2023-05-06 at 10 48 45 PM](https://user-images.githubusercontent.com/34665034/236660091-bdebdcdf-9e67-4a9c-b9ad-fa2d771fedb0.png)
+![Screenshot 2023-05-19 at 11 10 49 AM](https://github.com/kuljotbiring/361-Microservice/assets/34665034/2b07ad84-e4e1-4eef-aa8f-cc84ebbcb6a5)
+
 
